@@ -119,7 +119,6 @@ def imageContours(img):
 
     # Visualize the images
     cv2.imshow('img', img)
-    # cv2.imshow('imgTresh', imgTresh)
     cv2.waitKey(0)
 
 
